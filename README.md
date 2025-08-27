@@ -1,84 +1,145 @@
-# Hello World! 👋 I'm Aadarsh Soni
-
 <div align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+DevOps+Enthusiast;Freelance+Web+Developer;SaaS+%26+AI+Solutions+Builder;Problem+Solver+%7C+Team+Leader;Always+Learning+%26+Building!)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24b5e06.gif" width="400">
-  
+
+# ✨ Welcome to My Digital Universe ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aadarsh%20Soni&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 30px 0;">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+SaaS+Builder;Freelance+Web+Developer+%7C+Startup+Founder;AI+Enthusiast+%7C+Problem+Solver;Building+the+Future%2C+One+Line+at+a+Time!)](https://git.io/typing-svg)
+
+</div>
+
+<img width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-> *"I'm a 4th-year techie student who loves exploring new areas of technology. With an entrepreneurial mindset, I always look for ways to contribute, help others, and make a difference."*
+## 🎯 **About Me - The Journey So Far**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+</div>
 
-```javascript
-const aadarsh = {
-    location: "Udaipur, Rajasthan, India 🇮🇳",
-    education: "B.Tech CSE @ Techno India NJR Institute",
-    currentRole: "Freelance Web Developer",
-    passion: ["Problem Solving", "Team Leadership", "Innovation"],
-    
-    workingOn: "SaaS Solutions & AI-Powered Applications",
-    learning: "Advanced DevOps & Cloud Architecture",
-    
-    askMeAbout: [
-        "Full Stack Development", "SaaS Architecture", 
-        "DevOps", "AI Integration", "Startup Ideas"
-    ],
-    
-    funFact: "I build chatbots that talk back! 🤖",
-    
-    reachMe: {
-        email: "2020aadarshsoni@gmail.com",
-        linkedin: "linkedin.com/in/aadarsh-soni01",
-        phone: "+91 7877571101"
-    }
+<table align="center" width="100%">
+<tr>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
+</td>
+<td width="65%">
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  passion: string[];
+  currentFocus: string;
+  lifePhilosophy: string;
+}
+
+const aadarsh: Developer = {
+  name: "Aadarsh Soni",
+  location: "Udaipur, Rajasthan, India 🇮🇳",
+  role: "Full Stack Developer & SaaS Founder",
+  passion: [
+    "🚀 Building scalable SaaS platforms",
+    "🤖 Integrating AI in web applications", 
+    "👥 Leading development teams",
+    "💡 Solving real-world problems"
+  ],
+  currentFocus: "Expanding QuoteKaro SaaS globally",
+  lifePhilosophy: "Code with purpose, lead with passion!"
 };
 ```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🌟 **What Drives Me**
+
+*"I'm a 4th-year Computer Science student with an entrepreneurial spirit. I love exploring new technologies and building solutions that make a real impact. Whether leading hackathon teams or developing client projects, I believe in the power of collaboration and continuous learning."*
+
+**🎓 Education:** B.Tech CSE @ Techno India NJR Institute  
+**📧 Contact:** 2020aadarshsoni@gmail.com | **📱** +91 7877571101
+
+</div>
 
 ---
 
 <div align="center">
 
-## 🛠️ Technology Arsenal
+## 🛠️ **Technical Arsenal**
 
-### **Core Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
 
-### **Frontend Mastery**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</div>
 
-### **Backend Excellence**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<div align="center">
 
-### **Database Systems**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### **💻 Programming Languages**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
 
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b27)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=1a1b27)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27)
 
-### **Development Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
+</div>
+
+### **🎨 Frontend Development**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1b27)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27)
+
+</div>
+
+### **⚙️ Backend Development**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1b27)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1b27)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27)
+
+</div>
+
+### **🗄️ Databases**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27)
+
+</div>
+
+### **☁️ Cloud & DevOps**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1a1b27)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=1a1b27)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1b27)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=1a1b27)
+
+</div>
+
+### **🛠️ Tools & Platforms**
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0;">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1b27)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=1a1b27)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white&labelColor=1a1b27)
+
+</div>
 
 </div>
 
@@ -97,194 +158,299 @@ const aadarsh = {
   
 </div>
 
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarsh-2004&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true)
-  
-</div>
-
 ---
 
-## 🏆 Achievement Showcase
-
 <div align="center">
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=aadarsh-2004&theme=tokyonight&no-frame=true&row=1&column=7)
-  
+
+## ⭐ **Featured Projects**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
 </div>
 
----
+<table align="center" width="100%">
+<tr>
+<td width="33.33%">
 
-## 🚀 Featured Projects
+### **⚡ SAAS DEVELOPMENT**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎯 QuoteKaro - SaaS Platform</h3>
-      <div align="center">  
-        <a href="YOUR_LINK_HERE" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/be90f2?text=QuoteKaro+SaaS" alt="QuoteKaro"/></a>
-        <br><br>
-        <p><strong>Professional SaaS for Photography Studios</strong></p>
-        <p>🔹 Personalized studio dashboard<br/>
-           🔹 Theme-based PDF templates<br/>
-           🔹 Firebase Auth & MongoDB<br/>
-           🔹 Credit-based estimation system</p>
-        <p><strong>Tech:</strong> React.js | Node.js | Express.js | MongoDB | Tailwind CSS</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Portfolio Chatbot</h3>
-      <div align="center">
-        <a href="YOUR_LINK_HERE" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/638fda?text=AI+Chatbot" alt="AI Chatbot"/></a>
-        <br><br>
-        <p><strong>Voice-Powered AI Assistant</strong></p>
-        <p>🔹 Amazon Polly integration<br/>
-           🔹 Voice input & audio responses<br/>
-           🔹 Custom knowledge base<br/>
-           🔹 Enhanced accessibility</p>
-        <p><strong>Tech:</strong> React.js | Amazon Polly | Node.js | AI/ML</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📈 Crypto Tracker</h3>
-      <div align="center">
-        <a href="YOUR_LINK_HERE" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/35aea1?text=Crypto+Tracker" alt="Crypto Tracker"/></a>
-        <br><br>
-        <p><strong>Real-time Cryptocurrency Platform</strong></p>
-        <p>🔹 Live price updates<br/>
-           🔹 TradingView integration<br/>
-           🔹 Binance & CryptoCompare APIs<br/>
-           🔹 Interactive market charts</p>
-        <p><strong>Tech:</strong> React.js | APIs | TradingView | Render</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛍️ Business Solutions</h3>
-      <div align="center">
-        <a href="#" target="_blank"><img src="https://via.placeholder.com/400x200/1a1b27/f7df1e?text=Client+Projects" alt="Client Projects"/></a>
-        <br><br>
-        <p><strong>Multiple Client Projects</strong></p>
-        <p>🔹 Mushroom Juniors eCommerce<br/>
-           🔹 Sabgumo.com Corporate Site<br/>
-           🔹 Pet Junction Services<br/>
-           🔹 UAF NGO Website</p>
-        <p><strong>Focus:</strong> Performance | Scalability | SEO | CMS</p>
-      </div>
-    </td>
-  </tr>
+### **QuoteKaro – Studio SaaS Platform**
+<span style="background: #ff6b35; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">In Development</span>
+
+**SaaS platform for photography studios to create, manage, and share branded quotations with clients.**
+
+**🔹 Highlights:**
+- Personalized dashboard with client management  
+- Theme-based PDF template generator  
+- Firebase Auth, MongoDB backend  
+- Credit-based estimate system  
+- Admin analytics dashboard  
+
+**Tech Stack:**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+[🔗 **Live Demo**](https://your-link-here)
+
+</div>
+</td>
+
+<td width="33.33%">
+
+### **🛒 E-COMMERCE WEBSITE**
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
+
+### **MushroomJuniors**
+<span style="background: #28a745; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Completed</span>
+
+**Half e-commerce clothing website built for the luxury kids' clothing brand Mushroom Juniors, aimed at increasing market presence and brand visibility.**
+
+**🔹 Highlights:**
+- Clean, modern, and responsive UI  
+- Fast performance and optimized loading  
+- WhatsApp integration for orders  
+- Admin panel for catalog management  
+
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+[🔗 **Live Demo**](https://your-link-here)
+
+</div>
+</td>
+
+<td width="33.33%">
+
+### **✈️ TRAVEL WEBSITE**
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
+
+### **Sabgumo.com**
+<span style="background: #28a745; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Completed</span>
+
+**Modern travel website built to showcase upcoming tours and packages, enabling easy bookings via WhatsApp conversations for a seamless user experience.**
+
+**🔹 Highlights:**
+- Tour and package showcase  
+- Direct WhatsApp booking integration  
+- SEO-optimized and fast loading  
+- Mobile-responsive design  
+
+**Tech Stack:**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+[🔗 **Live Demo**](https://your-link-here)
+
+</div>
+</td>
+</tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
-
 <div align="center">
 
-### 🌟 Freelance Web Developer | *Dec 2024 – Present*
-
-*Delivering customized web solutions for businesses with focus on performance and user experience*
-
-**Key Achievements:**
-- ✅ Built SaaS platforms with multi-tenant architecture
-- ✅ Integrated AI/ML solutions for enhanced UX
-- ✅ Deployed scalable applications on cloud platforms
-- ✅ Maintained 99%+ uptime for client applications
+## 🚀 **Other Projects**
 
 </div>
 
+<table align="center" width="100%">
+<tr>
+<td width="50%">
+
+### **🗄️ PetJunction**
+<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 15px; border-radius: 12px; margin: 10px 0; color: #2d3748;">
+
+**PET SERVICES PLATFORM**  
+<span style="background: #28a745; color: white; padding: 3px 6px; border-radius: 8px; font-size: 11px;">Completed</span>
+
+Website for a pet services startup offering boarding, walking, sitting, and other pet-related services, with booking facilitated via WhatsApp for quick and direct communication.
+
+**Tech:** React.js | Node.js | MongoDB  
+
+[🔗 **Demo**](https://your-link-here)
+
+</div>
+
+### **🌍 UAF – Udaipur Animal Feed**
+<div style="background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); padding: 15px; border-radius: 12px; margin: 10px 0; color: #2d3748;">
+
+**NGO WEBSITE**  
+<span style="background: #28a745; color: white; padding: 3px 6px; border-radius: 8px; font-size: 11px;">Completed</span>
+
+Informative website for a Udaipur-based NGO supporting animal welfare, designed to share their mission, activities, and encourage public engagement.
+
+**Tech:** React.js | Tailwind CSS  
+
+[🔗 **Demo**](https://your-link-here)
+
+</div>
+
+</td>
+<td width="50%">
+
+### **📈 Crypto Tracker**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 12px; margin: 10px 0; color: white;">
+
+**WEB APP**  
+<span style="background: #28a745; color: white; padding: 3px 6px; border-radius: 8px; font-size: 11px;">Completed</span>
+
+Real-time cryptocurrency tracking app with live charts and market stats, featuring integrated APIs for accurate data visualization and market analysis.
+
+**Tech:** React.js | Node.js | Express.js  
+
+[🔗 **Demo**](https://your-link-here)
+
+</div>
+
+### **🤖 AI Portfolio Chatbot**
+<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 15px; border-radius: 12px; margin: 10px 0; color: #2d3748;">
+
+**AI INTEGRATION**  
+<span style="background: #28a745; color: white; padding: 3px 6px; border-radius: 8px; font-size: 11px;">Completed</span>
+
+AI-powered chatbot with voice interaction for portfolio websites, featuring Amazon Polly integration for enhanced user engagement and accessibility.
+
+**Tech:** React.js | Node.js | Amazon Polly  
+
+[🔗 **Demo**](https://your-link-here)
+
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🎓 Education & Certifications
+<div align="center">
+
+## 💼 **Professional Experience**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+</div>
+
+### **🌟 Freelance Web Developer**
+**📍 Remote | 📅 Dec 2024 – Present**
+
+*Delivered customized web solutions for small to mid-sized businesses, focusing on performance, usability, and responsive design.*
+
+**🏆 Key Achievements:**
+- ✅ **Developed 4+ complete web applications** from concept to deployment
+- ✅ **Increased client conversion rates by 40%** through optimized UX/UI design
+- ✅ **Implemented modern tech stacks** for scalable and maintainable solutions
+- ✅ **Maintained 99% client satisfaction rate** with timely delivery and support
+
+**🛠️ Technologies Used:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Firebase` `AWS` `Cloudinary`
+
+---
+
+### **🚀 Founder & Full-Stack Developer — QuoteKaro SaaS**
+**📍 Udaipur, Rajasthan (Remote) | 📅 May 2024 – Present**
+
+*Building a SaaS platform for photography and event studios to create and share branded quotations with clients. Responsible for end-to-end development, architecture, and feature delivery.*
+
+**🏆 Key Achievements:**
+- ✅ **Designed complete platform architecture** using MERN stack from scratch
+- ✅ **Implemented theme-based PDF template engine** with auto-filled estimates
+- ✅ **Integrated Firebase Auth, MongoDB backend** with credit-based estimate system
+- ✅ **Built comprehensive admin dashboard** for analytics, firm management, and usage tracking
+- ✅ **Planned multi-country expansion strategy** starting with India market
+
+**🛠️ Technologies Used:**  
+`React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS` `Firebase` `AWS`
+
+---
+
+<div align="center">
+
+## 🎓 **Education & Certifications**
+
+</div>
 
 <table align="center">
   <tr>
-    <th>🎓 Education</th>
-    <th>📜 Certifications</th>
+    <th width="50%">🎓 **Education**</th>
+    <th width="50%">📜 **Certifications**</th>
   </tr>
   <tr>
-    <td>
-      <strong>B.Tech Computer Science</strong><br/>
+    <td align="center">
+      **🏛️ B.Tech Computer Science Engineering**<br/>
       <em>Techno India NJR Institute, Udaipur</em><br/>
-      📅 2022 - Present (3rd Year)
+      **📅 2022 - Present (3rd Year)**<br/>
+      Focus: Software Development & System Design
     </td>
-    <td>
-      ✅ <strong>DevOps Training</strong> (Apr 2025)<br/>
-      ✅ <strong>MERN Stack</strong> (Sep 2024)<br/>
-      ✅ <strong>IBM Data Analyst</strong> (Sep 2023)<br/>
-      ✅ <strong>HTML, CSS, Linux</strong> (Jul 2023)
+    <td align="center">
+      **✅ DevOps Training** (Apr 2025)<br/>
+      **✅ MERN Stack Training** (Sep 2024)<br/>
+      **✅ IBM Data Analyst Internship** (Sep 2023)<br/>
+      **✅ HTML, CSS & Linux Course** (Jul 2023)
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏅 Leadership & Achievements
-
 <div align="center">
 
-### 🥇 **Smart India Hackathon 2024-25**
-**Team Leader** | Advanced to Semi-Finals
+## 🏅 **Leadership & Achievements**
 
-*Led a diverse team in developing innovative tech solutions for real-world challenges*
+### **🥇 Smart India Hackathon 2024-25**
+**👥 Team Leader** | Advanced to Semi-Finals
 
-**Technologies Used:** React.js | Node.js | Express.js | MongoDB | Tailwind CSS
+*Led a diverse team in developing innovative tech solutions for real-world challenges using cutting-edge technologies.*
+
+**🛠️ Technologies:** `React.js` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
 
 ---
 
-### 🚀 **Hack with India 2025**
-**Active Participant** | National-Level Competition
+### **🚀 Hack with India 2025**
+**🎯 Active Participant** | National-Level Competition
 
-*Collaborated on meaningful projects solving complex problems*
+*Collaborated on meaningful projects solving complex problems with focus on scalable solutions and user impact.*
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
 <div align="center">
 
-![Snake animation](https://github.com/aadarsh-2004/aadarsh-2004/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
+## 🌐 **Connect With Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadarsh-soni01/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarsh-2004)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2020aadarshsoni@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917877571101)
 
-</div>
-
 ---
 
-<div align="center">
-
-## 💡 Random Dev Quote
+## 💡 **Random Dev Quote**
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 📊 Profile Stats
+---
+
+## 📊 **Profile Analytics**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadarsh-2004&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/aadarsh-2004?style=for-the-badge&color=orange)
 ![Stars](https://img.shields.io/github/stars/aadarsh-2004?style=for-the-badge&color=yellow)
 
-</div>
-
 ---
 
-<div align="center">
+### 🎯 *"The best way to predict the future is to create it."* – Peter Drucker
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+**Thanks for visiting! Let's build something extraordinary together! 🚀✨**
 
-**Thanks for visiting! Let's build something amazing together! 🚀**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
