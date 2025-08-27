@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # ✨ Welcome to My Digital Universe ✨
 
@@ -145,6 +145,21 @@ const aadarsh: Developer = {
 
 ---
 
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aadarsh-2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=aadarsh-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=aadarsh-2004&theme=tokyonight&hide_border=true)
+  
+</div>
+
+---
+
 <div align="center">
 
 ## ⭐ **Featured Projects**
@@ -153,122 +168,90 @@ const aadarsh: Developer = {
 
 </div>
 
-<div align="center">
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center">
+<td width="33.33%">
 
-<div style="background: linear-gradient(145deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 25px; margin: 15px; box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3); width: 380px; height: 450px; color: white; position: relative;">
+### **⚡ SAAS DEVELOPMENT**
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
 
-<div style="position: absolute; top: 20px; right: 20px;">
-<span style="background: linear-gradient(45deg, #ff6b35, #ff8e35); color: white; padding: 6px 12px; border-radius: 15px; font-size: 11px; font-weight: bold;">In Development</span>
-</div>
+### **QuoteKaro – Studio SaaS Platform**
+<span style="background: #ff6b35; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">In Development</span>
 
-<div style="text-align: center; margin-bottom: 20px;">
-<div style="width: 80px; height: 80px; background: linear-gradient(45deg, #4facfe, #00f2fe); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 35px; margin-bottom: 15px;">⚡</div>
-<h3 style="margin: 10px 0; color: #ffffff; font-size: 22px;">QuoteKaro – Studio SaaS Platform</h3>
-<p style="color: #e0e6ed; font-size: 12px; margin-bottom: 15px;">SAAS DEVELOPMENT</p>
-</div>
+**SaaS platform for photography studios to create, manage, and share branded quotations with clients.**
 
-<p style="color: #f1f5f9; font-size: 14px; line-height: 1.5; text-align: left;">SaaS platform for photography studios to create, manage, and share branded quotations with clients.</p>
+**🔹 Highlights:**
+- Personalized dashboard with client management  
+- Theme-based PDF template generator  
+- Firebase Auth, MongoDB backend  
+- Credit-based estimate system  
+- Admin analytics dashboard  
 
-<div style="text-align: left; margin: 15px 0;">
-<p style="color: #cbd5e1; font-size: 13px; margin: 5px 0;">🔹 Personalized dashboard with client management</p>
-<p style="color: #cbd5e1; font-size: 13px; margin: 5px 0;">🔹 Theme-based PDF template generator</p>
-<p style="color: #cbd5e1; font-size: 13px; margin: 5px 0;">🔹 Firebase Auth, MongoDB backend</p>
-<p style="color: #cbd5e1; font-size: 13px; margin: 5px 0;">🔹 Credit-based estimate system</p>
-</div>
+**Tech Stack:**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
-<div style="margin: 15px 0;">
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" style="margin: 2px;">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" style="margin: 2px;">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" style="margin: 2px;">
-</div>
-
-<div style="position: absolute; bottom: 20px; left: 30px; right: 30px;">
-<a href="https://your-link-here" style="background: linear-gradient(45deg, #ff6b6b, #ff8e8e); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; display: block; text-align: center;">🔗 Live Demo</a>
-</div>
+[🔗 **Live Demo**](https://your-link-here)
 
 </div>
-
 </td>
 
-<td align="center">
+<td width="33.33%">
 
-<div style="background: linear-gradient(145deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 25px; margin: 15px; box-shadow: 0 15px 35px rgba(240, 147, 251, 0.3); width: 380px; height: 450px; color: white; position: relative;">
+### **🛒 E-COMMERCE WEBSITE**
+<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
 
-<div style="position: absolute; top: 20px; right: 20px;">
-<span style="background: linear-gradient(45deg, #28a745, #34d058); color: white; padding: 6px 12px; border-radius: 15px; font-size: 11px; font-weight: bold;">Completed</span>
-</div>
+### **MushroomJuniors**
+<span style="background: #28a745; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Completed</span>
 
-<div style="text-align: center; margin-bottom: 20px;">
-<div style="width: 80px; height: 80px; background: linear-gradient(45deg, #ffd89b, #19547b); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 35px; margin-bottom: 15px;">🛒</div>
-<h3 style="margin: 10px 0; color: #ffffff; font-size: 22px;">MushroomJuniors</h3>
-<p style="color: #ffe0e6; font-size: 12px; margin-bottom: 15px;">E-COMMERCE WEBSITE</p>
-</div>
+**Half e-commerce clothing website built for the luxury kids' clothing brand Mushroom Juniors, aimed at increasing market presence and brand visibility.**
 
-<p style="color: #fff5f7; font-size: 14px; line-height: 1.5; text-align: left;">Half e-commerce clothing website built for the luxury kids' clothing brand, aimed at increasing market presence and brand visibility.</p>
+**🔹 Highlights:**
+- Clean, modern, and responsive UI  
+- Fast performance and optimized loading  
+- WhatsApp integration for orders  
+- Admin panel for catalog management  
 
-<div style="text-align: left; margin: 15px 0;">
-<p style="color: #ffd4e5; font-size: 13px; margin: 5px 0;">🔹 Clean, modern, and responsive UI</p>
-<p style="color: #ffd4e5; font-size: 13px; margin: 5px 0;">🔹 Fast performance and optimized loading</p>
-<p style="color: #ffd4e5; font-size: 13px; margin: 5px 0;">🔹 WhatsApp integration for orders</p>
-<p style="color: #ffd4e5; font-size: 13px; margin: 5px 0;">🔹 Admin panel for catalog management</p>
-</div>
+**Tech Stack:**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-<div style="margin: 15px 0;">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" style="margin: 2px;">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" style="margin: 2px;">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="margin: 2px;">
-</div>
-
-<div style="position: absolute; bottom: 20px; left: 30px; right: 30px;">
-<a href="https://your-link-here" style="background: linear-gradient(45deg, #ff6b6b, #ff8e8e); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; display: block; text-align: center;">🔗 Live Demo</a>
-</div>
+[🔗 **Live Demo**](https://your-link-here)
 
 </div>
-
 </td>
 
-<td align="center">
+<td width="33.33%">
 
-<div style="background: linear-gradient(145deg, #4facfe 0%, #00f2fe 100%); padding: 30px; border-radius: 25px; margin: 15px; box-shadow: 0 15px 35px rgba(79, 172, 254, 0.3); width: 380px; height: 450px; color: white; position: relative;">
+### **✈️ TRAVEL WEBSITE**
+<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
 
-<div style="position: absolute; top: 20px; right: 20px;">
-<span style="background: linear-gradient(45deg, #28a745, #34d058); color: white; padding: 6px 12px; border-radius: 15px; font-size: 11px; font-weight: bold;">Completed</span>
-</div>
+### **Sabgumo.com**
+<span style="background: #28a745; color: white; padding: 4px 8px; border-radius: 12px; font-size: 12px;">Completed</span>
 
-<div style="text-align: center; margin-bottom: 20px;">
-<div style="width: 80px; height: 80px; background: linear-gradient(45deg, #fa709a, #fee140); border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 35px; margin-bottom: 15px;">✈️</div>
-<h3 style="margin: 10px 0; color: #ffffff; font-size: 22px;">Sabgumo.com</h3>
-<p style="color: #e0f2ff; font-size: 12px; margin-bottom: 15px;">TRAVEL WEBSITE</p>
-</div>
+**Modern travel website built to showcase upcoming tours and packages, enabling easy bookings via WhatsApp conversations for a seamless user experience.**
 
-<p style="color: #f0f9ff; font-size: 14px; line-height: 1.5; text-align: left;">Modern travel website built to showcase upcoming tours and packages, enabling easy bookings via WhatsApp conversations for seamless experience.</p>
+**🔹 Highlights:**
+- Tour and package showcase  
+- Direct WhatsApp booking integration  
+- SEO-optimized and fast loading  
+- Mobile-responsive design  
 
-<div style="text-align: left; margin: 15px 0;">
-<p style="color: #bfdbfe; font-size: 13px; margin: 5px 0;">🔹 Tour and package showcase</p>
-<p style="color: #bfdbfe; font-size: 13px; margin: 5px 0;">🔹 Direct WhatsApp booking integration</p>
-<p style="color: #bfdbfe; font-size: 13px; margin: 5px 0;">🔹 SEO-optimized and fast loading</p>
-<p style="color: #bfdbfe; font-size: 13px; margin: 5px 0;">🔹 Mobile-responsive design</p>
-</div>
+**Tech Stack:**  
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
-<div style="margin: 15px 0;">
-<img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" style="margin: 2px;">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" style="margin: 2px;">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" style="margin: 2px;">
-</div>
-
-<div style="position: absolute; bottom: 20px; left: 30px; right: 30px;">
-<a href="https://your-link-here" style="background: linear-gradient(45deg, #ff6b6b, #ff8e8e); color: white; padding: 12px 24px; border-radius: 25px; text-decoration: none; font-weight: bold; display: block; text-align: center;">🔗 Live Demo</a>
-</div>
+[🔗 **Live Demo**](https://your-link-here)
 
 </div>
-
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
